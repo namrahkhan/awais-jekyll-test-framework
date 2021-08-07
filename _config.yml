@@ -1,0 +1,16 @@
+title: jekyll test framework
+subtitle: some frameworks for html 
+email: someotheremail@email.com
+twitter: someid
+
+url:
+baseurl: '/'
+
+markdown: kramdown
+
+exclude:
+- "*.gemspec"
+
+sass:
+  sass_dir: assets/bsd5
+  style:  compressed
